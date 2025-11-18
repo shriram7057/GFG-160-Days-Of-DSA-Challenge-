@@ -13,7 +13,6 @@
 # 📘 GFG 160 Days of DSA
 
 
-
 A structured journey through Data Structures & Algorithms inspired by GeeksforGeeks' 160-day challenge. This repository contains Python solutions to daily problems, helping learners build strong foundations and prepare for coding interviews.
 
 ---
